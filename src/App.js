@@ -1,7 +1,6 @@
 import "./App.css";
 import { react, useRef, useEffect, useState } from "react";
 import { Power3, gsap } from "gsap";
-import { GamesSharp, Power, VisibilityRounded } from "@material-ui/icons";
 
 function App() {
   let whitecircle = useRef(null);
